@@ -1,0 +1,10 @@
+comandos para django
+python manage.py runserver  = inicia el servidor 
+python manage.py migrate    = migra los modelos a la base de datos
+python -m venv #nombre      = comando para crear un entorno virtual
+#nombre\Scripts\activate    = pasamos a trabajar en el entorno virtual
+. #nombre\Scripts\activate.ps1 = para pasar a entorno virutal en Code
+python manage.py startapp #nombre = comando para crear una aplicación 
+python manage.py makemigrations = para hacer saber que hay cambios en el modelo 
+python manage.py createsuperuser = crear un usuario que tiene todo el control del sitio
+
